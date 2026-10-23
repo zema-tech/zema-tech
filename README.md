@@ -1,32 +1,83 @@
 <div align="center">
 
-### hey there 👋
+# 👋 Hey, I'm **zema-tech**
 
-I'm **zema-tech** — self-taught developer exploring AI agents, Discord bots and modern software out of pure passion.
+**Self-taught developer · Multi-agent AI systems · Production Discord bots**
+
+Building in public · Always learning · Art High School student from Italy 🇮🇹
+
+[![GitHub followers](https://img.shields.io/github/followers/zema-tech?style=social)](https://github.com/zema-tech)
+[![GitHub stars](https://img.shields.io/github/stars/zema-tech?affiliations=OWNER&style=social)](https://github.com/zema-tech)
 
 </div>
 
 ---
 
-### 🚀 currently building
+### 🚀 Currently Building
 
-- **[ZealBot](https://github.com/zema-tech/zealbot-discord)** — production multi-server Discord bot (Commander + Guardian architecture, dashboard, AI, tickets, moderation, economy)
-- **[OmniMCP](https://github.com/zema-tech/omni-mcp)** — open-source MCP-native alternative to Composio
-- **[Omnicore](https://github.com/zema-tech/omnicore-agent)** — self-hostable multi-agent AI system (JARVIS · EDIT · MINE · PROMPT · ART)
-- **[M.I.N.E. Control Center](https://github.com/zema-tech/m.i.n.e.-control-center)** — cyberpunk UI to orchestrate the agents
+<table>
+<tr>
+<td width="50%">
+
+**[ZealBot](https://github.com/zema-tech/zealbot-discord)**  
+Production-ready multi-server Discord bot  
+• Commander + Guardian architecture  
+• Web dashboard · AI · Tickets · Moderation · Economy  
+⭐ 2 · ~85 slash commands · Self-hostable
+
+</td>
+<td width="50%">
+
+**[OmniMCP](https://github.com/zema-tech/omni-mcp)**  
+Open-source MCP-native alternative to Composio  
+• Unify all MCP servers & AI tool integrations  
+• Fully self-hostable · MIT · Community-driven
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Omnicore](https://github.com/zema-tech/omnicore-agent)**  
+Self-hostable multi-agent AI system  
+• JARVIS (core) · EDIT · MINE · PROMPT · ART  
+• ReAct loop · Native organs · Offline capable
+
+</td>
+<td width="50%">
+
+**[M.I.N.E. Control Center](https://github.com/zema-tech/m.i.n.e.-control-center)**  
+Dark cyberpunk UI to orchestrate agents  
+• Real-time control for Omnicore  
+• React + TypeScript
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ tech I work with
-
-`JavaScript` `TypeScript` `Node.js` `Python` `React` `Discord.js` `MCP` `AI Agents` `Groq` `Docker`
-
----
-
-### 📈 github stats
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zema-tech&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zema-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zema-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
@@ -36,8 +87,20 @@ I'm **zema-tech** — self-taught developer exploring AI agents, Discord bots an
 
 ---
 
+### 🔥 Other Projects
+
+- **[colibri-rs](https://github.com/zema-tech/colibri-rs)** — Minimal MoE engine in Rust (streaming experts from disk, Qwen ~27-35B on 16GB)
+- **[self-hosted-ai-server](https://github.com/zema-tech/self-hosted-ai-server)** — Ollama + quantized models on modest hardware (16GB RAM)
+- **[opencode-claude-like-ui](https://github.com/zema-tech/opencode-claude-like-ui)** — Claude-style UI extension for opencode-webui (Skills, MCP, Plugin)
+
+---
+
 <div align="center">
 
-**Art High School student · building in public · always learning**
+### 💬 Let's connect
+
+Open to collaborations, feedback and cool AI/agent projects.
+
+**Building in public · Passionate about multi-agent systems & production-ready bots**
 
 </div>
